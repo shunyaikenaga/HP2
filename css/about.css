@@ -1,0 +1,36 @@
+.about_com {
+  margin-bottom: 200px;
+}
+
+.about_com .section_ttl {
+  margin-bottom: 40px;
+}
+
+.about_com_all {
+  padding: 100px;
+  border: solid 2px #ddd;
+  -webkit-box-shadow: 20px 20px 30px #ddd;
+  box-shadow: 20px 20px 30px #ddd;
+  display: flex;
+}
+
+.about_com_list {
+  width: 50%;
+}
+
+.about_com_item {
+  margin-bottom: 40px;
+}
+
+.about_com_ttl {
+  font-size: 23px;
+  display: inline-block;
+  padding-bottom: 8px;
+}
+
+.about_com_txt {
+  font-size: 20px;
+  display: inline-block;
+  padding-bottom: 8px;
+}
+
